@@ -164,6 +164,4 @@ Feel free to use, improve, and share.
 **Wardah Zia Abbasi**
 🔗 [GitHub: @war-abbasi](https://github.com/war-abbasi)
 
----
 
-If you'd like, I can create a custom banner or a badge section for GitHub Actions, Deploy to Streamlit Cloud, etc. Just let me know!
